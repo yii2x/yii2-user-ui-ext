@@ -1,0 +1,21 @@
+{
+    "name": "yii2x/yii2-yii2-user-ui-ext",
+    "description": "YII2 UI User Sencha Ext JS",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Yuriy Basov",
+            "email": "w3devlab@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "yii2x\\user\\ui\\ext\\": ""
+        }
+    }
+}
