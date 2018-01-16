@@ -1,6 +1,6 @@
 <?php
 
-namespace app\modules\yii2x\user\ui\ext;
+namespace \yii2x\user\ui\ext;
 
 use \yii\base\BootstrapInterface;
 
