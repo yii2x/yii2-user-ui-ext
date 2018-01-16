@@ -1,6 +1,6 @@
 <?php
 
-namespace \yii2x\user\ui\ext;
+namespace yii2x\user\ui\ext;
 
 /**
  * enterprise module definition class
