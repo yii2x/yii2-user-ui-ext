@@ -1,5 +1,5 @@
 {
-    "name": "yii2x/yii2-yii2-user-ui-ext",
+    "name": "yii2x/yii2-user-ui-ext",
     "description": "YII2 UI User Sencha Ext JS",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"],
